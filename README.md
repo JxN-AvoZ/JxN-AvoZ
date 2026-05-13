@@ -1,4 +1,7 @@
 # 👋 About me
+![MSc AI](https://img.shields.io/badge/MSc-Artificial_Intelligence-blue?style=flat-square&logo=google-scholar&logoColor=white)
+![Mechatronics](https://img.shields.io/badge/B.Eng-Mechatronics-orange?style=flat-square&logo=circuitpython&logoColor=white)
+![TripleTen](https://img.shields.io/badge/Training-TripleTen_Data_Science-yellow?style=flat-square)
 
 I hold a **Master of Science in Artificial Intelligence** at the **Autonomous University of Querétaro** (*UAQ*) and a **Bachelors Degree in Mechatronics Engineering** at the **Universidad TecMilenio**.
 I am a data analyst and scientist in training with a practical approach focused on solving real problems using data. I am currently consolidating my knowledge through:
@@ -9,6 +12,17 @@ This repository brings together a collection of projects that reflect my technic
 
 
 ## 📊 What will you find in this portfolio?
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E9431F?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![VSCodium](https://img.shields.io/badge/VSCodium-2C2C32?style=for-the-badge&logo=vscodium&logoColor=007ACC)
 
 My projects cover a wide range of real business challenges and case studies, including:
 
@@ -28,9 +42,3 @@ Each project is documented with reproducible code (Jupyter Notebooks/scripts) an
 * 📈 Application of statistics and hypothesis testing to validate business assumptions.
 * 💻 Use of relevant tools such as Python, pandas, SQL, matplotlib/seaborn, Streamlit, and cloud deployment.
 * 🛠️ Projects based on real needs in different industries (telco, retail, travel, transportation, video games, among others).
-
-## Badges
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
