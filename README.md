@@ -3,10 +3,12 @@
 ![Mechatronics](https://img.shields.io/badge/B.Eng-Mechatronics-orange?style=flat-square&logo=circuitpython&logoColor=white)
 ![TripleTen](https://img.shields.io/badge/Training-TripleTen_Data_Science-yellow?style=flat-square)
 
-I hold a **Master of Science in Artificial Intelligence** at the **Autonomous University of Querétaro** (*UAQ*) and a **Bachelors Degree in Mechatronics Engineering** at the **Universidad TecMilenio**.
+
+I hold a **Master of Science in Artificial Intelligence** at the **Autonomous University of Querétaro (*UAQ*)** and a **Bachelor's Degree in Mechatronics Engineering** at the **Universidad TecMilenio**.
+
 I am a data analyst and scientist in training with a practical approach focused on solving real problems using data. I am currently consolidating my knowledge through:
 
-* _Data Scientist_ preparation course taught by *__TripleTen__*
+* __Data Scientist__ preparation course taught by *__TripleTen__*
 
 This repository brings together a collection of projects that reflect my technical and analytical progress in areas such as exploratory data analysis, dataset cleaning and preparation, visualization, statistical testing, SQL, Python, and deployment of solutions with modern tools.
 
@@ -23,6 +25,7 @@ This repository brings together a collection of projects that reflect my technic
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![VSCodium](https://img.shields.io/badge/VSCodium-2C2C32?style=for-the-badge&logo=vscodium&logoColor=007ACC)
+
 
 My projects cover a wide range of real business challenges and case studies, including:
 
