@@ -1,6 +1,6 @@
 # 👋 About me
 
-I hold a *Master of Science in Artificial Intelligence* at the *Autonomous University of Querétaro* (*UAQ*)
+I hold a **Master of Science in Artificial Intelligence** at the **Autonomous University of Querétaro** (*UAQ*) and a **Bachelors Degree in Mechatronics Engineering** at the **Universidad TecMilenio**.
 I am a data analyst and scientist in training with a practical approach focused on solving real problems using data. I am currently consolidating my knowledge through:
 
 * _Data Scientist_ preparation course taught by *__TripleTen__*
@@ -28,3 +28,9 @@ Each project is documented with reproducible code (Jupyter Notebooks/scripts) an
 * 📈 Application of statistics and hypothesis testing to validate business assumptions.
 * 💻 Use of relevant tools such as Python, pandas, SQL, matplotlib/seaborn, Streamlit, and cloud deployment.
 * 🛠️ Projects based on real needs in different industries (telco, retail, travel, transportation, video games, among others).
+
+## Badges
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
