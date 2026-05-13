@@ -1,10 +1,9 @@
 # 👋 About me
 
+I hold a *Master of Science in Artificial Intelligence* at the *Autonomous University of Querétaro* (*UAQ*)
 I am a data analyst and scientist in training with a practical approach focused on solving real problems using data. I am currently consolidating my knowledge through:
 
-* Data Scientist preparation course taught by TripleTen
-* Machine Learning course taught by Dr. Marco Aceves
-* Master of Science in Artificial Intelligence at the Autonomous University of Querétaro (UAQ)
+* _Data Scientist_ preparation course taught by *__TripleTen__*
 
 This repository brings together a collection of projects that reflect my technical and analytical progress in areas such as exploratory data analysis, dataset cleaning and preparation, visualization, statistical testing, SQL, Python, and deployment of solutions with modern tools.
 
